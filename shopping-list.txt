@@ -1,0 +1,7 @@
+const myList = [
+  ['apple', 1],
+  ['tomato', 10],
+  ['banana', 6],
+  ['limon', 9],
+  ['cucumber', 1]
+];
